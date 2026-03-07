@@ -44,6 +44,7 @@ Python | Pandas | Scikit-learn | TensorFlow
 
 ## 🐍 Contribution Snake
 
-![snake](https://raw.githubusercontent.com/ahadfaqih/ahadfaqih/output/github-contribution-grid-snake-dark.svg)
+![snake](https://raw.githubusercontent.com/ahadfaqih/ahadfaqih/output/github-contribution-grid-snake.svg)
+
 
 > "Artificial Intelligence is the future, and the future is being built today."
