@@ -34,11 +34,20 @@ Python | Pandas | Scikit-learn | TensorFlow
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-orange?logo=tensorflow)
 
 ## 📊 GitHub Stats
-![Stats](https://github-readme-stats.vercel.app/api?username=ahadfaqih&show_icons=true)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ahadfaqih&show_icons=true&hide_border=true)
 
 ## 💻 Most Used Languages
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ahadfaqih&layout=compact)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ahadfaqih&layout=compact&hide_border=true)
+
+## 🌱 Currently Learning
+- Machine Learning fundamentals
+- Python for AI
+- Data analysis with Pandas
+- Building beginner AI projects
+
+  
 ## 🔥 GitHub Streak
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ahadfaqih)
 
