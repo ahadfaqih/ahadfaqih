@@ -15,14 +15,19 @@ Interested in Artificial Intelligence, Machine Learning, Data Analysis, and Pyth
 - Data Analysis
 - Python
 
-## Projects
-## Projects
-- [Student Grades Analysis](https://github.com/ahadfaqih/Artificial-Intelligence-Practice-Projects)
-- [House Price Prediction](https://github.com/ahadfaqih/Artificial-Intelligence-Practice-Projects)
-- [Movie Recommendation System](https://github.com/ahadfaqih/Artificial-Intelligence-Practice-Projects)
-- [Sentiment Analysis](https://github.com/ahadfaqih/Artificial-Intelligence-Practice-Projects)
-- [Image Classification](https://github.com/ahadfaqih/Artificial-Intelligence-Practice-Projects)
-- [Study Time Predictor](https://github.com/ahadfaqih/Artificial-Intelligence-Practice-Projects)
+## 🚀 Projects
+
+[![Student Grades Analysis](https://github-readme-stats.vercel.app/api/pin/?username=ahadfaqih&repo=Artificial-Intelligence-Practice-Projects)](https://github.com/ahadfaqih/Artificial-Intelligence-Practice-Projects)
+
+[![House Price Prediction](https://github-readme-stats.vercel.app/api/pin/?username=ahadfaqih&repo=Artificial-Intelligence-Practice-Projects)](https://github.com/ahadfaqih/Artificial-Intelligence-Practice-Projects)
+
+[![Movie Recommendation System](https://github-readme-stats.vercel.app/api/pin/?username=ahadfaqih&repo=Artificial-Intelligence-Practice-Projects)](https://github.com/ahadfaqih/Artificial-Intelligence-Practice-Projects)
+
+[![Sentiment Analysis](https://github-readme-stats.vercel.app/api/pin/?username=ahadfaqih&repo=Artificial-Intelligence-Practice-Projects)](https://github.com/ahadfaqih/Artificial-Intelligence-Practice-Projects)
+
+[![Image Classification](https://github-readme-stats.vercel.app/api/pin/?username=ahadfaqih&repo=Artificial-Intelligence-Practice-Projects)](https://github.com/ahadfaqih/Artificial-Intelligence-Practice-Projects)
+
+[![Study Time Predictor](https://github-readme-stats.vercel.app/api/pin/?username=ahadfaqih&repo=Artificial-Intelligence-Practice-Projects)](https://github.com/ahadfaqih/Artificial-Intelligence-Practice-Projects)
 
 ## Tools
 Python | Pandas | Scikit-learn | TensorFlow
