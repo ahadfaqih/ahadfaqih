@@ -17,17 +17,12 @@ Interested in Artificial Intelligence, Machine Learning, Data Analysis, and Pyth
 
 ## 🚀 Projects
 
-[![Student Grades Analysis](https://github-readme-stats.vercel.app/api/pin/?username=ahadfaqih&repo=Artificial-Intelligence-Practice-Projects)](https://github.com/ahadfaqih/Artificial-Intelligence-Practice-Projects)
-
-[![House Price Prediction](https://github-readme-stats.vercel.app/api/pin/?username=ahadfaqih&repo=Artificial-Intelligence-Practice-Projects)](https://github.com/ahadfaqih/Artificial-Intelligence-Practice-Projects)
-
-[![Movie Recommendation System](https://github-readme-stats.vercel.app/api/pin/?username=ahadfaqih&repo=Artificial-Intelligence-Practice-Projects)](https://github.com/ahadfaqih/Artificial-Intelligence-Practice-Projects)
-
-[![Sentiment Analysis](https://github-readme-stats.vercel.app/api/pin/?username=ahadfaqih&repo=Artificial-Intelligence-Practice-Projects)](https://github.com/ahadfaqih/Artificial-Intelligence-Practice-Projects)
-
-[![Image Classification](https://github-readme-stats.vercel.app/api/pin/?username=ahadfaqih&repo=Artificial-Intelligence-Practice-Projects)](https://github.com/ahadfaqih/Artificial-Intelligence-Practice-Projects)
-
-[![Study Time Predictor](https://github-readme-stats.vercel.app/api/pin/?username=ahadfaqih&repo=Artificial-Intelligence-Practice-Projects)](https://github.com/ahadfaqih/Artificial-Intelligence-Practice-Projects)
+- Student Grades Analysis  
+- House Price Prediction  
+- Movie Recommendation System  
+- Sentiment Analysis  
+- Image Classification  
+- Study Time Predictor
 
 ## Tools
 Python | Pandas | Scikit-learn | TensorFlow
