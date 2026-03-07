@@ -19,10 +19,9 @@ AI student at Umm Al-Qura University.
 
 ## Tools
 Python | Pandas | Scikit-learn | TensorFlow
-
 ## 📊 GitHub Stats
 
-![Ahad's GitHub stats](https://github-readme-stats.vercel.app/api?username=ahadfaqih&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ahadfaqih&show_icons=true&theme=tokyonight)
 
 ## 💻 Most Used Languages
 
