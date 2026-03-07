@@ -42,4 +42,8 @@ Python | Pandas | Scikit-learn | TensorFlow
 ## 🔥 GitHub Streak
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ahadfaqih)
 
+## 🐍 Contribution Snake
+
+![snake](https://raw.githubusercontent.com/ahadfaqih/ahadfaqih/output/github-contribution-grid-snake.svg)
+
 > "Artificial Intelligence is the future, and the future is being built today."
