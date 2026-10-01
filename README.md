@@ -1,29 +1,26 @@
 # Hi, I'm Ahad 👋
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=F7F7F7&size=30&center=true&vCenter=true&width=700&lines=AI+Student+at+Umm+Al-Qura+University;Machine+Learning+Enthusiast;Python+%7C+Data+Analysis+%7C+AI+Projects)
+Artificial Intelligence student at Umm Al-Qura University, interested in
+AI, software development, and data-driven applications.
 
-AI student at Umm Al-Qura University.  
-Interested in Artificial Intelligence, Machine Learning, Data Analysis, and Python projects.
-
-![Profile views](https://komarev.com/ghpvc/?username=ahadfaqih&color=blue)
-
----
-
-## Interests
-- Artificial Intelligence
-- Machine Learning
-- Data Analysis
+## 🛠 Technical Skills
 - Python
+- SQL & MySQL
+- Object-Oriented Programming
+- Git & GitHub
+- Jupyter Notebook
+
+## 📚 Currently Learning
+- Artificial Intelligence
+- Database Systems
+- Computer Organization & Architecture
+- Data Analysis
 
 ## 🚀 Projects
+I'm building academic and personal projects as I progress through my
+Artificial Intelligence degree.
 
-- Student Grades Analysis  
-- House Price Prediction  
-- Movie Recommendation System  
-- Sentiment Analysis  
-- Image Classification  
-- Study Time Predictor
-
+Selected projects are pinned below.
 ## Tools
 Python | Pandas | Scikit-learn | TensorFlow
 
