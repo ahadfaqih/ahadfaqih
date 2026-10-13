@@ -1,7 +1,20 @@
-# Hi, I'm Ahad 👋
+# Hi, I'm Ahad! 👋
 
-Artificial Intelligence student at Umm Al-Qura University, interested in
-AI, software development, and data-driven applications.
+### 🎓 BSc Artificial Intelligence Student
+**Umm Al-Qura University | Saudi Arabia 🇸🇦**
+
+I'm an Artificial Intelligence undergraduate passionate about
+building intelligent systems and solving real-world problems
+through technology.
+
+My interests include:
+- 🤖 Artificial Intelligence & Machine Learning
+- 🧠 Deep Learning & Computer Vision
+- 💻 Software Engineering & Python Development
+- 📊 Data Science & Predictive Analytics
+
+🎯 **Career Goal:** Become an AI Engineer and grow into
+a leadership role in Artificial Intelligence.
 
 ## 🛠 Technical Skills
 - Python
