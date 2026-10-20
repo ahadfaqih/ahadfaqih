@@ -150,10 +150,12 @@ at Umm Al-Qura University
 
 ---
 
+
 ## 📊 GitHub Statistics
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ahadafaqih&show_icons=true&theme=tokyonight)
+![Ahad's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ahadfaqih&show_icons=true&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ahadafaqih&layout=compact&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ahadfaqih&layout=compact&theme=tokyonight)
+
 
 > "Artificial Intelligence is the future, and the future is being built today."
